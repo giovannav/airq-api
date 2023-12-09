@@ -1,12 +1,12 @@
 #### AIRQ Api
-This project was done as the final project of an integration discipline in ninith semester of mi CE major.
+This project was undertaken as the final assignment for an integration discipline in the ninth semester of my Computer Engineering major.
 
-It's half of a two part project to create an air quality station to evaluate air quality in closed environments.
+It constitutes half of a two-part initiative aimed at creating an air quality station for evaluating air quality in enclosed environments.
 
-This repository has the API part and the code for two microcontrollers integrated in the system.
+This repository encompasses the API segment and the code for two microcontrollers integrated into the system.
 
-The API was developed in Python, using the FastAPI library. The API was deployed using AWS Lambda and using DynamoDB as a database.
+The API was developed using Python and the FastAPI library. Deployment of the API took place through AWS Lambda, with DynamoDB serving as the chosen database.
 
-These deployment resources were chosen due to its large documenation, low cost and low latency for the database.
+These deployment resources were selected for their extensive documentation, cost-effectiveness, and low latency attributes for the database.
 
-A video of the working project in available in this YouTube video: https://youtu.be/q_yTyegimSQ
+For a visual demonstration of the project in operation, a video is available on YouTube at the following link: https://youtu.be/q_yTyegimSQ
